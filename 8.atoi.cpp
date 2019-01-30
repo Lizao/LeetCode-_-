@@ -16,7 +16,7 @@ public:
           return 0;
         }
 
-        sign = str[ix] == '-' ? -1 : 1;
+        sign = str[ix] == '-' ? -1 : 1; // escape "+" and no sign judge
         int step = str[ix] == '+' || str[ix] == '-' ? 1 : 0;
         ix += step;
 
