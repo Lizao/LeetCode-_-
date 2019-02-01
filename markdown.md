@@ -11,3 +11,7 @@ LeetCode 二刷: 符合题库要求版
 20190130:整数反转。（移位、取模、取余）
 
 20190130:atoi。（学会使用三目运算符简化代码/溢出问题的判断/标识符以及正负号判断的简化）
+
+20190130:Roman to Integer。（学会使用Switch语句以及嵌套使用if语句）
+last day of work.
+Happy new year~
