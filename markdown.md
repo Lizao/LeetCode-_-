@@ -15,3 +15,9 @@ LeetCode 二刷: 符合题库要求版
 20190130:Roman to Integer。（学会使用Switch语句以及嵌套使用if语句）
 last day of work.
 Happy new year~
+
+20190225:905. Sort Array By Parity。（学会使用前后字符同时判断，supportted by waterbro）
+
+20190226:709. To Lower Case。（AscII码大小写字母差为32，'a'-'A'）
+
+20190226:929. Unique Email Addresses。（主要是熟悉string中.find()函数和.erase()的使用，注意删除指定长度后，整体长度减小这个点）
