@@ -24,3 +24,5 @@ Happy new year~
 
 20190227:58.Length of Last Word （本来想着用string.find()和string.rfind()查找空格，但是解决不了"a"的情况，现在这个思路更简洁明了）
 
+20190228:561.Array Partition I (easy one)
+
