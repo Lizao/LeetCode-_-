@@ -21,3 +21,6 @@ Happy new year~
 20190226:709. To Lower Case。（AscII码大小写字母差为32，'a'-'A'）
 
 20190226:929. Unique Email Addresses。（主要是熟悉string中.find()函数和.erase()的使用，注意删除指定长度后，整体长度减小这个点）
+
+20190227:58.Length of Last Word （本来想着用string.find()和string.rfind()查找空格，但是解决不了"a"的情况，现在这个思路更简洁明了）
+
